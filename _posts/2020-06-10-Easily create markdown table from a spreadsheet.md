@@ -10,9 +10,9 @@ tags: [ 'python', 'code-snippets', 'markdown' ]
 ![markdown_table](/gallery/markdown_table.gif)
 
 
-Markdown is really great, I like it for many good reasons.  This site is written in markdown.  With any tool, there will be quirks that we have to deal with.  For me, its working with tables in markdown (its inconvenient).  My use-case is simple.  How can I turn a simple table I have on a spreadsheet, and convert it to markdown for my note taking or blog post.
+Markdown is really great, I like it for many good reasons.  This site is completely written in markdown.  Just like with any tool though, there will be minor quirks that we have to deal with.  For me, it's working with tables in markdown (it's really inconvenient).  My use-case is very simple.  I would like to easily convert a simple table I have on a spreadsheet and convert to markdown for note taking or blog post.  With my script below, I'm able to copy a table from a spreadsheet and then paste it as a markdown table format.  
 
-Here is a small script that I use:
+See below:
 
 ``` python
 # Load the modules required
