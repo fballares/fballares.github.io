@@ -15,6 +15,7 @@ author: Francis Ballares
 
 navbar-links:
   About Me: "aboutme"
+  Visualizations: "visualizations"
   Resources:
     - R for Data Science: "https://r4ds.had.co.nz/"
     - Anaconda: "https://www.anaconda.com/open-source"
