@@ -7,10 +7,16 @@ categories: tech
 tags: [ 'R', 'data-viz']
 ---
 
-I've created a visualization of Covid-19 school cases in Ontario. There are three different visualizations.
-1. [Municipality schools with Covid-19 cases in Ontario](\files\municipality_school_with_active_cases_ontario.html) 
-2. [Staff and student related Covid-19 cases in Ontario](\files\school_related_cases_ontario.html)
-3. [Location map of Covid-19 School cases in Ontario](\files\covid_cases_school_map.html)
+Converting the visualization into a single dashboard:
+- [Covid-19 School Cases in Ontario](\files\covid_19_school_cases_in_ontario.html) 
+
+
+Deprecating the various charts below.
+
+~~I've created a visualization of Covid-19 school cases in Ontario. There are three different visualizations.~~
+1. ~~Municipality schools with Covid-19 cases in Ontario~~
+2. ~~Staff and student related Covid-19 cases in Ontario~~
+3. ~~Location map of Covid-19 School cases in Ontario~~
 
 The source data is from the [Ontario Government Data](https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario).
 
